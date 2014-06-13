@@ -67,7 +67,6 @@ class Main{
 
 	    }
 
-
 	    Pt leftMost = new Pt( points[minP][0], points[minP][1] );
 	    
 
